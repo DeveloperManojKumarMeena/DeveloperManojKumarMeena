@@ -1,80 +1,120 @@
-<h1 align="center">👋 Hi, I'm Manoj Kumar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=27&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+%7C+React+%7C+Next.js+Expert;API+Integration+%7C+MongoDB+%7C+Cloud+Deployment;Passionate+About+High-Performance+Web+Solutions" />
-</p>
-
----
-
-### 👨‍💻 About Me
-🔹 My name is **Manoj Kumar Meena**  
-🔹 I'm a 🔥 **Full Stack Web Developer (MERN Stack)**  
-🔹 I love creating **secure, scalable, high-performance web applications**  
-🔹 I enjoy building **projects that solve real-world problems and help businesses grow**  
-🔹 Currently working on improving my **product building skills & UI/UX animations**
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,redux" />
-
-#### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-#### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-#### 🎨 Animations / UI
-- GSAP
-- Smooth UI/UX
-- Business-Level Custom Animations
-
----
-
-### 📌 What I'm Currently Working On
-🚧 I’m doing a **“100 Full-Stack Projects Challenge”** —  
-each project includes **Modern UI + Strong Backend + Security + Animations**.
-
----
-
-### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperManojKumarMeena&show_icons=true&theme=react&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperManojKumarMeena&theme=react&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperManojKumarMeena&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/DeveloperManojKumarMeena"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/manojkumarmeenasir/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-</p>
-
----
-
-### 🐍 Contribution Animation
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+# Hi 👋, I'm Manoj Kumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Web+Developer;MERN+Stack+Developer+with+AI;Full+Stack+Developer;Building+Smart+Web+Applications" alt="Typing Animation" />
+
+### 🚀 AI Web Developer | MERN Stack Developer | AI Integration Specialist
+
+<img src="https://komarev.com/ghpvc/?username=DeveloperManojKumarMeena&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
 </div>
 
 ---
 
-### 🤝 Open to Collaborate
-If you'd like to work together on:
-✔ Web Apps  
-✔ SaaS Products  
-✔ Full-Stack Projects  
-✔ Animated UI Websites  
+## 💫 About Me
 
-📩 Feel free to reach out — I'm always open to collaboration and exciting ideas.
+💻 Passionate **AI Web Developer** and **MERN Stack Developer**  
+🤖 Specialized in **AI-powered web applications**  
+☁️ Exploring **Cloud Computing, LangChain, Vector DB & Automation**  
+📚 Continuous learner with strong problem-solving skills  
+🚀 Currently building modern **full-stack intelligent applications**  
+📦 **59+ repositories** on GitHub  
+🎯 **Fresher**, ready for exciting opportunities  
 
 ---
 
-⭐ **If you like my repositories, don't forget to give them a Star — it motivates me!**
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+
+### 🤖 AI / Automation / Cloud
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-FF6F00?style=for-the-badge)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Node_Terminal-000000?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- 🎓 12th PCM
+- 🎓 B.Sc Mathematics
+- 🎓 PGDCA
+- 🎓 MERN Stack
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DeveloperManojKumarMeena&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/manojkumarmeenasir/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/DeveloperManojKumarMeena" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Ind_Manoj_Meena/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="mailto:manojkumarmeena281023@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💼 Career Goal
+
+To work as a **Full Stack AI Developer** and contribute to innovative projects using **MERN stack, AI technologies, automation, and cloud platforms**.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+### 🚀 Let's build something amazing together
+
+</div>
