@@ -82,7 +82,7 @@
 
 <div align="center">
   
- <h2>This Section Comming Soon...</h2>
+ <h2>This Section Added Soon...</h2>
 
 </div>
 
